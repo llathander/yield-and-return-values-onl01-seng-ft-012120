@@ -23,4 +23,3 @@ def hello(array)
   collection
 end
 
-hello(array)
